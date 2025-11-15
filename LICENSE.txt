@@ -1,0 +1,99 @@
+📄 LICENSE.txt — Commercial Use License
+
+DOG WALKER WEBSITE STARTER PACK
+Commercial License Agreement
+
+Last Updated: {{Insert Date}}
+
+1. LICENSE GRANT
+
+Upon purchase, the Buyer (“You”) is granted a non-exclusive, non-transferable commercial license to use, edit, modify, and deploy this website template for:
+
+Your own business
+
+A client’s business (one client per purchase)
+
+A single commercial project
+
+You may use the template to build one (1) live website.
+
+2. PERMITTED USES
+
+You ARE allowed to:
+
+✔ Use the template for personal or commercial purposes
+✔ Modify, edit, or customise the template
+✔ Deploy the template online (website, hosting platform, Vercel, Netlify, etc.)
+✔ Use the template for a business you own
+✔ Use the template for one (1) client project
+✔ Remove or change branding, placeholder text, images, or styles
+
+3. PROHIBITED USES
+
+You are NOT allowed to:
+
+✘ Resell, redistribute, or share the template files
+✘ Sell the template as your own digital product
+✘ Upload or distribute the source code publicly
+✘ Give away the template for free
+✘ Use the template to create competing website templates
+✘ Sub-license, rent, or lease the template
+✘ Use the template in a way that violates copyright or trademark laws
+
+In short:
+👉 You can use it for your business or one client — but you cannot resell the template itself.
+
+4. MULTI-USE / AGENCY USE
+
+If you want to use the template for more than one client, you must purchase one license per client.
+
+If you require an unlimited client license or agency license, please contact the seller.
+
+5. INTELLECTUAL PROPERTY
+
+All rights, title, and ownership of the template and its source code remain with the Seller.
+This license does not transfer intellectual property rights.
+
+You receive only the rights explicitly stated in this license.
+
+6. LIABILITY
+
+This template is provided “as-is” without warranties of any kind.
+The Seller is not liable for:
+
+Any damages
+
+Loss of revenue
+
+Hosting issues
+
+Deployment issues
+
+Third-party service failures
+
+You are responsible for properly configuring, hosting, and maintaining your deployed website.
+
+7. REFUNDS
+
+Because this is a digital product, all sales are final.
+No refunds are issued after the files have been downloaded.
+
+8. TERMINATION
+
+Your license will be terminated if you:
+
+Break any terms of this license
+
+Redistribute or resell the template
+
+Violate copyright conditions
+
+Upon termination, you must delete all copies of the template.
+
+9. ACCEPTANCE
+
+By downloading, installing, or using the template, you agree to the terms of this Commercial License.
+
+If you do not agree, do not use or access the files.
+
+✔ END OF LICENSE FILE
