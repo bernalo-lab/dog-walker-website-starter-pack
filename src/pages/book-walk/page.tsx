@@ -1,5 +1,8 @@
 
-import { useState } from 'react';
+import Header from '../../components/feature/Header';
+import Footer from '../../components/feature/Footer';
+import React, { useState } from 'react';
+
 
 export default function BookWalkPage() {
   const [formData, setFormData] = useState({
@@ -57,6 +60,8 @@ export default function BookWalkPage() {
   };
 
   return (
+   <>
+   <Header />
     <div className="min-h-screen bg-gradient-to-br from-blue-50 to-teal-50">
       {/* Hero Banner */}
       <div className="relative bg-gradient-to-r from-teal-600 to-blue-600 py-16">
@@ -300,5 +305,7 @@ export default function BookWalkPage() {
         </div>
       </div>
     </div>
+   <Footer />
+   </>
   );
 }
